@@ -1,0 +1,16 @@
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\PagedList.dll
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\PagedList.Mvc.dll
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\PagedList.xml
+C:\Users\mertr\source\repos\MvcProjeKamp\EntityLayer\bin\Debug\PagedList.Mvc.xml
